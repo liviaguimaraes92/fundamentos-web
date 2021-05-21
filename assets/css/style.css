@@ -59,3 +59,15 @@
 .font {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.p1 {
+    font-size: 15px;
+}
+
+.colorFooter {
+    background-color: white;
+}
+
+.fontFooter {
+    color: black;
+}
