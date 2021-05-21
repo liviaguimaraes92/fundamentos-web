@@ -1,5 +1,6 @@
 /* Estilos da página index.html */
 
+
 .center {
     text-align: center;
 }
@@ -20,7 +21,7 @@
 
 #menu li a {
     text-decoration: none;
-    color: black;
+    color: white;
     font-size: 15px;
 }
 
@@ -49,4 +50,12 @@
 
 .ml-50 {
     margin-left: 50px;
+}
+
+.color {
+    color: blanchedalmond;
+}
+
+.font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
